@@ -1,0 +1,331 @@
+complaint,category,priority
+My payment was deducted twice but my order was cancelled.,Payment Issue,High
+My payment was deducted twice from my account.,Payment Issue,High
+Money was deducted twice for a single order.,Payment Issue,High
+Unauthorized transaction charged on my credit card without my consent.,Payment Issue,High
+Double charge on debit card please refund immediately.,Payment Issue,High
+I was charged twice for a single order and no confirmation received.,Payment Issue,High
+Bank account debited multiple times but transaction shows failed.,Payment Issue,High
+Fraudulent transaction noticed on my billing account.,Payment Issue,High
+My money was deducted 3 times for one transaction.,Payment Issue,High
+Charged exorbitant unknown fee without OTP or approval.,Payment Issue,High
+Duplicate billing on monthly subscription and card drained.,Payment Issue,High
+Money taken from account but seller says payment not received.,Payment Issue,High
+Unauthorized recurring payment charged after I cancelled subscription.,Payment Issue,High
+Payment deducted three times during checkout glitch.,Payment Issue,High
+Large unauthorized sum withdrawn through your checkout portal.,Payment Issue,High
+Immediate refund needed money deducted but cart remained full.,Payment Issue,High
+Huge fraudulent deduction on my debit card from your portal.,Payment Issue,High
+My account was debited twice for annual subscription renewal.,Payment Issue,High
+My payment failed but amount was deducted from my bank.,Payment Issue,Medium
+Payment gateway timed out during checkout transaction.,Payment Issue,Medium
+Refund has not been credited after 7 business days.,Payment Issue,Medium
+UPI payment stuck in processing state for over 24 hours.,Payment Issue,Medium
+Unable to complete transaction with credit card error 402.,Payment Issue,Medium
+Card declined during checkout even with sufficient funds.,Payment Issue,Medium
+Refund status shows successful but money not in bank account.,Payment Issue,Medium
+Transaction failed at payment step but balance got deducted.,Payment Issue,Medium
+Discount coupon was not applied to final payment total.,Payment Issue,Medium
+Invoice shows wrong billing amount with extra unexpected charges.,Payment Issue,Medium
+Wallet balance deducted but order not placed.,Payment Issue,Medium
+Payment processed successfully but payment receipt not generated.,Payment Issue,Medium
+Net banking session expired during money deduction.,Payment Issue,Medium
+Wrong tax amount calculated on invoice checkout page.,Payment Issue,Medium
+Auto debit deducted money before the scheduled due date.,Payment Issue,Medium
+Pending refund request has been delayed without updates.,Payment Issue,Medium
+Payment failed on merchant terminal but bank account debited.,Payment Issue,Medium
+Charged higher shipping cost than stated during payment.,Payment Issue,Medium
+Cashback not credited to my wallet after transaction.,Payment Issue,Medium
+How can I update my billing payment method in settings?,Payment Issue,Low
+Where can I download my payment receipt and tax invoice?,Payment Issue,Low
+Do you accept payments via PayPal or international cards?,Payment Issue,Low
+Can I split payment between two different credit cards?,Payment Issue,Low
+When will my annual subscription auto-renewal take place?,Payment Issue,Low
+Requesting a formal receipt for my previous business purchase.,Payment Issue,Low
+Query regarding accepted payment modes on checkout.,Payment Issue,Low
+Can I pay cash on delivery for this electronic item?,Payment Issue,Low
+Inquiry about billing cycle dates and monthly statement.,Payment Issue,Low
+Need GST invoice with company tax registration details.,Payment Issue,Low
+How do I remove an expired credit card from saved cards?,Payment Issue,Low
+What payment gateways are supported for online checkout?,Payment Issue,Low
+Is there any transaction fee for paying via UPI?,Payment Issue,Low
+Can I change billing address for future monthly invoices?,Payment Issue,Low
+Want information about EMI options available for payment.,Payment Issue,Low
+How long does a refund usually take to process?,Payment Issue,Low
+Can I get an invoice copy sent to my alternate email?,Payment Issue,Low
+Where can I review my past transactions history?,Payment Issue,Low
+My package has still not arrived after one week and tracking stopped.,Delivery Issue,High
+Delivery agent marked package delivered but I received nothing.,Delivery Issue,High
+Emergency medical supplies order has been delayed for days.,Delivery Issue,High
+Package lost in transit and delivery courier is unresponsive.,Delivery Issue,High
+Valuable parcel stolen or missing from doorstep location.,Delivery Issue,High
+Delivery boy never showed up but marked customer unreachable.,Delivery Issue,High
+Package not delivered for two weeks and no status update.,Delivery Issue,High
+Urgent birthday gift delivery missed scheduled date completely.,Delivery Issue,High
+Courier tracking number shows invalid and package missing.,Delivery Issue,High
+Shipment stuck at distribution hub for ten days without movement.,Delivery Issue,High
+Order marked delivered yesterday but security guard received nothing.,Delivery Issue,High
+Time critical package delayed indefinitely without notification.,Delivery Issue,High
+Delivery boy dumped parcel outside in heavy rain and ruined it.,Delivery Issue,High
+Courier driver forged signature and marked item as received.,Delivery Issue,High
+Shipment marked returned to origin without any delivery attempt.,Delivery Issue,High
+Urgent delivery order missing for eight days no courier contact.,Delivery Issue,High
+Delivery partner stole the package contents and left empty wrapper.,Delivery Issue,High
+My package has been missing for over twelve days in transit.,Delivery Issue,High
+My package has not arrived for five days.,Delivery Issue,Medium
+Delivery was delayed beyond the estimated delivery date.,Delivery Issue,Medium
+Delivery person was rude and refused doorstep drop off.,Delivery Issue,Medium
+Tracking information has not updated for three days.,Delivery Issue,Medium
+Courier arrived at wrong address and rescheduled delivery.,Delivery Issue,Medium
+Package dispatched very late from warehouse facility.,Delivery Issue,Medium
+Delivery boy refused to verify package contents upon delivery.,Delivery Issue,Medium
+Delivery status is delayed due to weather conditions.,Delivery Issue,Medium
+Shipment reached wrong city distribution center.,Delivery Issue,Medium
+Courier rescheduled delivery without my permission or call.,Delivery Issue,Medium
+Package received with broken outer seal and wet cardboard.,Delivery Issue,Medium
+Delivery attempted at 11 PM which is unacceptable.,Delivery Issue,Medium
+Courier driver demanded extra cash for doorstep delivery.,Delivery Issue,Medium
+Delivery delayed twice without providing any reason.,Delivery Issue,Medium
+Package sent to old shipping address despite updating it.,Delivery Issue,Medium
+Delivery executive called once and immediately marked failed.,Delivery Issue,Medium
+Expected delivery date postponed repeatedly for four days.,Delivery Issue,Medium
+Order stuck at local delivery facility for 48 hours.,Delivery Issue,Medium
+Courier tracking link not working showing internal error.,Delivery Issue,Medium
+Can I change my delivery address before shipment?,Delivery Issue,Low
+How many days will standard shipping take to arrive?,Delivery Issue,Low
+Is express delivery available for my pincode?,Delivery Issue,Low
+Can I schedule a specific delivery time slot tomorrow?,Delivery Issue,Low
+Want to know shipping charges for rural area delivery.,Delivery Issue,Low
+How do I track my order once it is shipped?,Delivery Issue,Low
+Inquiry about international shipping options and rates.,Delivery Issue,Low
+Can delivery boy call before arriving at the address?,Delivery Issue,Low
+Is contactless delivery available for my apartment?,Delivery Issue,Low
+Want to change shipping method to standard shipping.,Delivery Issue,Low
+Do you deliver packages on Sundays and national holidays?,Delivery Issue,Low
+Can I pick up my parcel directly from the courier warehouse?,Delivery Issue,Low
+How to leave delivery instructions for courier driver?,Delivery Issue,Low
+What are the estimated transit days for standard delivery?,Delivery Issue,Low
+Will delivery agent ask for OTP during doorstep handover?,Delivery Issue,Low
+Can someone else collect my delivery package on my behalf?,Delivery Issue,Low
+Inquiry about estimated delivery date for pre-order items.,Delivery Issue,Low
+Where can I find shipping policy details on website?,Delivery Issue,Low
+The product I received is damaged and broken into pieces.,Product Issue,High
+Received counterfeit and fake electronics instead of original.,Product Issue,High
+Expired food item delivered causing severe stomach infection.,Product Issue,High
+Device caught fire and overheated dangerously while charging.,Product Issue,High
+Expensive smartphone arrived with cracked screen and open seal.,Product Issue,High
+Received completely empty box without the ordered laptop.,Product Issue,High
+Product has serious safety hazard and electrical short circuit.,Product Issue,High
+Wrong prescription medicine delivered posing serious health risk.,Product Issue,High
+Damaged glass item arrived leaking chemicals everywhere.,Product Issue,High
+Counterfeit duplicate shoes delivered in crushed box.,Product Issue,High
+Power bank exploded while plugged in causing burn damage.,Product Issue,High
+Electric appliance giving severe electric shocks to user.,Product Issue,High
+Brand new monitor arrived smashed into pieces inside box.,Product Issue,High
+Infant baby toy has sharp exposed metal edges dangerously sharp.,Product Issue,High
+Contaminated cosmetic cream caused severe allergic skin reaction.,Product Issue,High
+Refurbished used phone sent instead of brand new sealed unit.,Product Issue,High
+Kitchen blender motor started smoking and caught fire immediately.,Product Issue,High
+Safety helmet arrived cracked in half useless for protection.,Product Issue,High
+The product I received is damaged.,Product Issue,Medium
+Product size is completely different from the size chart.,Product Issue,Medium
+Received wrong color and model of headphone.,Product Issue,Medium
+Item stopped working after three days of gentle use.,Product Issue,Medium
+Missing accessories and charging cable from product box.,Product Issue,Medium
+Clothing fabric quality is very poor and torn at seams.,Product Issue,Medium
+Product does not match photos and description on website.,Product Issue,Medium
+Defective power button on electric kettle won't turn on.,Product Issue,Medium
+Book arrived with torn cover and missing pages.,Product Issue,Medium
+Shoes sole came off after wearing once outdoors.,Product Issue,Medium
+Wrong shoe size delivered ordered size 9 but got size 7.,Product Issue,Medium
+Laptop keyboard keys are loose and malfunctioning.,Product Issue,Medium
+Scratch marks and scuffs found all over new dining table.,Product Issue,Medium
+Watch battery is dead straight out of the package.,Product Issue,Medium
+Zipper on leather jacket is stuck and broken.,Product Issue,Medium
+Missing instruction manual and screws for bookshelf assembly.,Product Issue,Medium
+Bluetooth speaker has distorted buzzing sound quality.,Product Issue,Medium
+Ordered pack of five t-shirts but only three were inside.,Product Issue,Medium
+Printer ink cartridge is leaking inside the plastic wrap.,Product Issue,Medium
+How do I exchange this item for a larger size?,Product Issue,Low
+What is the return policy window for this electronic item?,Product Issue,Low
+Does this product come with one year manufacturer warranty?,Product Issue,Low
+Need user manual and setup guide for this product.,Product Issue,Low
+How to clean and properly maintain this kitchen appliance?,Product Issue,Low
+Can I get this cotton shirt in navy black color?,Product Issue,Low
+Inquiry about product specifications and exact dimensions.,Product Issue,Low
+Is this phone case compatible with the newer model?,Product Issue,Low
+Where can I find the official warranty registration page?,Product Issue,Low
+How to assemble the table parts properly without tools?,Product Issue,Low
+Are replacement parts available for this vacuum cleaner?,Product Issue,Low
+Query regarding battery life expectation of wireless earbuds.,Product Issue,Low
+Can I exchange color of the dress before delivery?,Product Issue,Low
+Is this cookware dishwasher and microwave safe?,Product Issue,Low
+Where is this manufactured and what is the origin country?,Product Issue,Low
+Do you offer gift wrapping options for this item?,Product Issue,Low
+Inquiry about fabric material composition of wool sweater.,Product Issue,Low
+How do I check if product is authentic and genuine?,Product Issue,Low
+The application crashes whenever I try to login.,Technical Issue,High
+The mobile application keeps crashing when I open it.,Technical Issue,High
+The app keeps crashing.,Technical Issue,High
+Website server error 500 prevents accessing my dashboard.,Technical Issue,High
+Data loss in my account after system update all records wiped.,Technical Issue,High
+Application completely unresponsive and white screen of death.,Technical Issue,High
+Critical security vulnerability exposed on user portal.,Technical Issue,High
+Database connection failed and lost all saved work.,Technical Issue,High
+App force closes immediately on launch preventing order placement.,Technical Issue,High
+System outage during checkout causing transaction loop.,Technical Issue,High
+Fatal error occurred while uploading important confidential documents.,Technical Issue,High
+All company data disappeared from dashboard following software patch.,Technical Issue,High
+Production server is down and API returning 503 gateway error.,Technical Issue,High
+App freezes on startup and phone overheats violently.,Technical Issue,High
+Cloud sync corruption destroyed customer database records.,Technical Issue,High
+Security certificate expired on payment portal triggering malware warning.,Technical Issue,High
+Complete system failure prevents all users from submitting orders.,Technical Issue,High
+App crashes every time checkout button is clicked.,Technical Issue,High
+Search button is not working on the mobile app.,Technical Issue,Medium
+Pages are loading extremely slowly on desktop browser.,Technical Issue,Medium
+Checkout button is disabled and unresponsive.,Technical Issue,Medium
+Push notifications are not functioning properly on Android.,Technical Issue,Medium
+Unable to upload image attachment on feedback form.,Technical Issue,Medium
+Video player buffering continuously on the portal.,Technical Issue,Medium
+Filters and sorting options are broken on product list.,Technical Issue,Medium
+App logs me out repeatedly after few minutes of browsing.,Technical Issue,Medium
+Profile photo upload fails with unknown network error.,Technical Issue,Medium
+Cart items disappear when refreshing the webpage.,Technical Issue,Medium
+GPS location permission error occurs on delivery tracking page.,Technical Issue,Medium
+Cannot download PDF invoice getting corrupted file error.,Technical Issue,Medium
+Dropdown menu not expanding on Chrome web browser.,Technical Issue,Medium
+Session timeout happens too quickly while filling forms.,Technical Issue,Medium
+Infinite loading spinner appears on order history page.,Technical Issue,Medium
+Dark mode toggle causes layout elements to overlap.,Technical Issue,Medium
+Error code 404 displayed when navigating to saved items.,Technical Issue,Medium
+Auto-complete suggestions are not displaying in search bar.,Technical Issue,Medium
+App fails to synchronize cart between mobile and web.,Technical Issue,Medium
+Suggestion to add dark mode theme to website interface.,Technical Issue,Low
+Can you add a search filter for price range and rating?,Technical Issue,Low
+Minor typo noticed on user settings profile page.,Technical Issue,Low
+Font size is slightly small on tablet screen view.,Technical Issue,Low
+How do I clear app cache and cookies on my phone?,Technical Issue,Low
+Feature request for keyboard shortcuts in web application.,Technical Issue,Low
+Inquiry about browser compatibility requirements for web app.,Technical Issue,Low
+Can we customize notifications frequency in app settings?,Technical Issue,Low
+Feedback regarding button placement on mobile navigation bar.,Technical Issue,Low
+Where can I report minor UI styling glitches?,Technical Issue,Low
+Request to add biometric fingerprint login option in future.,Technical Issue,Low
+Is there an iPad optimized version of your mobile app?,Technical Issue,Low
+Suggestion to enable voice search on product catalog.,Technical Issue,Low
+Website animation transitions feel slightly slow on older laptops.,Technical Issue,Low
+Can you support export to Excel format for invoices?,Technical Issue,Low
+How to update the mobile application to latest release?,Technical Issue,Low
+Inquiry regarding system minimum requirements for desktop app.,Technical Issue,Low
+Feedback on icons redesign in the recent application update.,Technical Issue,Low
+My account was hacked and personal information changed.,Account Issue,High
+Unauthorized login detected from foreign IP address.,Account Issue,High
+Someone changed my registered email and phone number.,Account Issue,High
+Account suspended without any explanation or notice.,Account Issue,High
+Financial details compromised in account takeover.,Account Issue,High
+Cannot regain access to locked account with business funds.,Account Issue,High
+Identity theft alert received on my registered profile.,Account Issue,High
+Two-factor authentication bypassed by attacker.,Account Issue,High
+My credentials were leaked and account is inaccessible.,Account Issue,High
+Urgent help needed account hijacked and credentials altered.,Account Issue,High
+Someone is making unauthorized purchases through my stolen account.,Account Issue,High
+Account compromised and hacker changed recovery email address.,Account Issue,High
+Immediate lockout needed stolen account being abused.,Account Issue,High
+Suspicious login attempt succeeded without sending OTP.,Account Issue,High
+My admin privileges were revoked by unauthorized intruder.,Account Issue,High
+All my account funds and credits stolen after security breach.,Account Issue,High
+Profile credentials compromised urgently lock account.,Account Issue,High
+Intruder accessed personal identification documents in profile.,Account Issue,High
+I cannot reset my password link never arrives in email.,Account Issue,Medium
+I cannot reset my password.,Account Issue,Medium
+Account is locked after multiple failed attempts.,Account Issue,Medium
+OTP verification code is not being delivered to mobile.,Account Issue,Medium
+Unable to update phone number due to verification loop.,Account Issue,Medium
+Cannot deactivate or close my old registered account.,Account Issue,Medium
+Profile details not updating after clicking save button.,Account Issue,Medium
+Verification email link expired within two minutes.,Account Issue,Medium
+Unable to link social media login to existing account.,Account Issue,Medium
+Account shows inactive status despite valid subscription.,Account Issue,Medium
+Forgot security questions answers and cannot log in.,Account Issue,Medium
+Password reset token shows invalid or expired error.,Account Issue,Medium
+Phone number already registered error preventing account recovery.,Account Issue,Medium
+Two factor SMS code taking thirty minutes to arrive.,Account Issue,Medium
+Cannot change primary email address in profile settings.,Account Issue,Medium
+User account randomly blocked during profile update.,Account Issue,Medium
+Email verification button inside message does nothing.,Account Issue,Medium
+Cannot upload identity verification document for KYC.,Account Issue,Medium
+Captcha verification keeps failing repeatedly on login screen.,Account Issue,Medium
+I want to know how I can change my account password.,Account Issue,Low
+I forgot my password.,Account Issue,Low
+How can I update my profile username and avatar?,Account Issue,Low
+Can I link multiple email addresses to one account?,Account Issue,Low
+How to switch account from personal to business profile?,Account Issue,Low
+Where can I view my account login history and devices?,Account Issue,Low
+How do I enable two factor authentication on profile?,Account Issue,Low
+Steps to delete search history from account settings.,Account Issue,Low
+Inquiry about privacy settings for public profile view.,Account Issue,Low
+Can I change my registered email address in settings?,Account Issue,Low
+How to export my personal account data and information?,Account Issue,Low
+What are password strength requirements for new account?,Account Issue,Low
+How do I merge two accounts registered with different emails?,Account Issue,Low
+Where do I find my account referral code to share?,Account Issue,Low
+Can I change my username without creating new account?,Account Issue,Low
+How to turn off email newsletter notifications on profile?,Account Issue,Low
+Inquiry on how to temporarily pause or hibernate account.,Account Issue,Low
+Where can I view active sessions and connected devices?,Account Issue,Low
+Customer service executive was verbally abusive and threatened me.,Service Issue,High
+Support ticket ignored for three weeks with zero response.,Service Issue,High
+Misleading promises made by relationship manager causing huge loss.,Service Issue,High
+Service technician damaged household property during home visit.,Service Issue,High
+Emergency hotline phone lines completely dead and disconnected.,Service Issue,High
+Service team refused warranty repair despite valid contract.,Service Issue,High
+Worst customer care experience supervisor hung up phone on me.,Service Issue,High
+Fraudulent representation of service terms by sales agent.,Service Issue,High
+Staff engaged in harassment when I requested my refund.,Service Issue,High
+Service center lost my device and refusing compensation.,Service Issue,High
+Technician physically broke my television during repair service.,Service Issue,High
+Customer representative screamed at me and refused to escalate.,Service Issue,High
+Gross negligence by installation team caused water pipe leakage.,Service Issue,High
+Service agent forged customer signature on completion certificate.,Service Issue,High
+Support desk refusing to honor signed service level agreement.,Service Issue,High
+Technician stole tools and equipment during home service visit.,Service Issue,High
+Complaint ticket closed without my knowledge while issue is unresolved.,Service Issue,High
+Rude support manager threatened to cancel my warranty completely.,Service Issue,High
+Customer care representative was unhelpful and dismissive.,Service Issue,Medium
+Waiting on phone hold for over 45 minutes without answer.,Service Issue,Medium
+Chatbot is stuck in a loop and cannot connect to human agent.,Service Issue,Medium
+Technician did not show up for scheduled appointment.,Service Issue,Medium
+Service request marked resolved without any actual repair done.,Service Issue,Medium
+Support executive gave conflicting instructions on phone.,Service Issue,Medium
+Ticket closed automatically without resolving my issue.,Service Issue,Medium
+Customer support email bounces back with mailbox full error.,Service Issue,Medium
+Delayed response from technical support team for days.,Service Issue,Medium
+Executive promised callback within 2 hours but never called.,Service Issue,Medium
+Customer care agent transferred my call four times in a row.,Service Issue,Medium
+Service engineer arrived 3 hours late without informing me.,Service Issue,Medium
+Support ticket status has been pending for over five days.,Service Issue,Medium
+Representative lacked basic knowledge about company policies.,Service Issue,Medium
+Helpdesk phone line gets disconnected every time after holding.,Service Issue,Medium
+Incomplete repair service left device only partially working.,Service Issue,Medium
+Support team keeps asking for documents I already submitted.,Service Issue,Medium
+Chat support agent abruptly disconnected the live chat session.,Service Issue,Medium
+Executive refused to transfer call to senior supervisor.,Service Issue,Medium
+What are your customer support working hours and schedule?,Service Issue,Low
+Where can I find the customer care phone number?,Service Issue,Low
+How can I submit general feedback about staff service?,Service Issue,Low
+Is live chat support available on weekends and holidays?,Service Issue,Low
+Requesting a supervisor callback at convenient morning time.,Service Issue,Low
+Can I get support in Spanish or regional languages?,Service Issue,Low
+Where is the nearest physical service center located in city?,Service Issue,Low
+Inquiry regarding customer satisfaction survey link.,Service Issue,Low
+How do I escalate an existing support ticket to management?,Service Issue,Low
+Can I speak to an account manager regarding service plans?,Service Issue,Low
+Is there an email address for general business inquiries?,Service Issue,Low
+How to submit compliment for helpful support agent?,Service Issue,Low
+What is the average response time for email inquiries?,Service Issue,Low
+Can I schedule a consultation call with service specialist?,Service Issue,Low
+Inquiry about self-service customer portal features.,Service Issue,Low
+Where can I find terms of service agreement documentation?,Service Issue,Low
+Do you offer 24/7 phone assistance for standard tier users?,Service Issue,Low
+How do I leave a review for the service technician?,Service Issue,Low
